@@ -1,0 +1,5 @@
+* Hidden Gems in Computer Science
+  
+** [[https://web.archive.org/web/20190407040727/http://www.ibm-1401.info/Meta-II-schorre.pdf][Meta II: A Syntax Oriented Compiler Writing Language (1964)]]
+
+** [[https://web.archive.org/web/20140822111939/http://www.grame.fr/ressources/publications/ICMC94LambdaCalc.pdf][Lambda Calculus and Music Calculi (1994)]]
